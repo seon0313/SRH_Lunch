@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SRH Lunch</string>
+    <string name="to_day_lunch">To day Lunch</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="lunch">lunch</string>
+    <string name="dinner">Dinner</string>
+    <string name="loading_item">Loading</string>
+    <string name="capture">Capture</string>
+    <string name="error_no_data">There is no lunch today.</string>
+    <string name="file_save">The image has been copied and saved to your Downloads folder.</string>
+    <string name="copy">Copy image</string>
+    <string name="allergy_information">Allergy Information</string>
+    <string name="allergy">1. Eggs| 2. Milk| 3. Buckwheat| 4. Peanuts| 5. Soybeans| 6. Wheat| 7. Mackerel| 8. Crab| 9. Shrimp| 10. Pork| 11. Peach| 12. Tomato| 13 .Sulfurous acids| 14.Walnuts| 15. Chicken| 16. Beef| 17. Squid| 18. Shellfish (including oysters, abalone, mussels)| 19. Pine nuts</string>
+</resources>

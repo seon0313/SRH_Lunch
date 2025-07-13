@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">서로고 급식</string>
+    <string name="to_day_lunch">오늘의 급식</string>
+    <string name="breakfast">아침</string>
+    <string name="lunch">점심</string>
+    <string name="dinner">저녁</string>
+    <string name="loading_item">불러오는 중</string>
+    <string name="capture">캡처</string>
+    <string name="error_no_data">오늘은 급식이 없어요.</string>
+    <string name="file_save">이미지가 복사되고 다운로드 폴더에 저장되었습니다.</string>
+    <string name="copy">이미지 복사하기</string>
+    <string name="allergy_information">알러지 정보</string>
+    <string name="allergy">1.난류| 2.우유| 3.메밀| 4.땅콩| 5.대두| 6.밀| 7.고등어| 8.게| 9.새우| 10.돼지고기| 11.복숭아| 12.토마토| 13.아황산류| 14.호두| 15.닭고기| 16.쇠고기| 17.오징어| 18.조개류(굴, 전복, 홍합 포함)| 19.잣</string>
+</resources>
